@@ -1,0 +1,136 @@
+commit e5d61850d7b2d6113d398d35ec11dd9f6ef8adb5
+Author: Gary <139928825+garyrswu@users.noreply.github.com>
+Date:   Thu Feb 12 21:30:03 2026 -0800
+
+    Create README.md
+
+commit 010aa82ac0d39f1cbd5dfaa000c9f0465a156fce
+Author: HeinThant663 <hthant@calstatela.edu>
+Date:   Thu Feb 12 21:28:42 2026 -0800
+
+    Update group mate info in index.html
+
+commit 447dcd1f97e5888421260a8ac0a903802db586e5
+Author: Gary <139928825+garyrswu@users.noreply.github.com>
+Date:   Thu Feb 12 21:24:56 2026 -0800
+
+    Update index.html - Gary Wu was here
+
+commit 9fd263f860fe1e82a41803ef5bd883a07d26bbbb
+Merge: f37cdce a11d50e
+Author: Gary <139928825+garyrswu@users.noreply.github.com>
+Date:   Thu Feb 12 21:13:24 2026 -0800
+
+    Merge pull request #1 from garyrswu/feature-about-me
+    
+    Merge feature-about-me into main
+
+commit a11d50ec0b646d5b6de3a26a52636c74588bd29c
+Merge: 69623ba f37cdce
+Author: Gary <139928825+garyrswu@users.noreply.github.com>
+Date:   Thu Feb 12 21:12:30 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 69623ba52f56f29d309dc9b77ebaf72be7bcdc0c
+Author: Gary <garyrswu@gmail.com>
+Date:   Thu Feb 12 21:07:13 2026 -0800
+
+    Update index.html
+    
+    updated with personal info
+
+commit 5a3ab8d118765ae7d9a3b5ea0e0d4b63ebfdb44e
+Author: Gary <139928825+garyrswu@users.noreply.github.com>
+Date:   Thu Feb 12 20:25:33 2026 -0800
+
+    Update index.html
+    
+    Added my name, lol
+
+commit 328ac500e0a79aad943d73685349b6803700372e
+Author: HeinThant663 <hthant@calstatela.edu>
+Date:   Tue Feb 10 19:54:40 2026 -0800
+
+    Added the README
+
+commit 415435b4935e3d5bcca97de05f7e2e6506456940
+Author: HeinThant663 <hthant@calstatela.edu>
+Date:   Tue Feb 10 19:39:23 2026 -0800
+
+    Create repo-location.txt
+
+commit 98f9757b0c8f983f4b49be59221f3a0c1e343dd9
+Author: HeinThant663 <hthant@calstatela.edu>
+Date:   Tue Feb 10 19:19:59 2026 -0800
+
+    Create git_log.txt
+
+commit 74b3f09c7049564c9f30be1f4ebf54a6ac2d3724
+Author: Narwha1s <narwhal2156@gmail.com>
+Date:   Tue Feb 10 18:14:48 2026 -0800
+
+    Added my personal information to my groupmate's index.html
+
+commit 59d12abbe570cc334282f307c0010dfbd36d5b37
+Merge: f37cdce 2715fd1
+Author: HeinThant663 <hthant@calstatela.edu>
+Date:   Fri Feb 6 12:41:15 2026 -0800
+
+    Merge pull request #1 from HeinThant663/feature-about-me
+    
+    Feature about me
+
+commit 2715fd166f43e8388b429e736be278df912f9880
+Merge: a8687e9 f37cdce
+Author: HeinThant663 <hthant@calstatela.edu>
+Date:   Fri Feb 6 12:40:55 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit a8687e9bfafc58dda2794644c7abe3f68349abe1
+Author: HeinThant663 <hthant@calstatela.edu>
+Date:   Fri Feb 6 12:36:46 2026 -0800
+
+    Update index.html with my info.
+    
+    I added my name, hobbies, food, and fun fact about me.
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
